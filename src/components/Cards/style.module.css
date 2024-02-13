@@ -1,0 +1,31 @@
+.card {
+  background: rgba(255, 255, 255, 0.359);
+  padding: 16px;
+  margin-bottom: 16px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border: 15px;
+  border-radius: 15px;
+  padding: 24px 40px;
+}
+
+.date {
+  font-weight: bold;
+}
+
+.temperature {
+  font-size: 1.2rem;
+}
+
+.windSpeed {
+  margin-top: 8px;
+}
+
+@media screen and (max-width: 414px) {
+  .card {
+    padding: 16px;
+  }
+  
+  .temperature {
+    font-size: 1rem;
+  }
+}

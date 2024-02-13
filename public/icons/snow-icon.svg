@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 70.77 60.67">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #94c0ff;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="3.24" cy="-2.66" fx="3.24" fy="-2.66" r="53.57" gradientUnits="userSpaceOnUse">
+      <stop offset=".32" stop-color="#7daada" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#567cb8"/>
+    </radialGradient>
+  </defs>
+  <g id="Snow">
+    <g>
+      <path class="cls-1" d="M11.54,42.67c-14.12,0-19.09-26.51,7.42-31.49,3.31-14.91,24.86-14.91,28.32,0,5.03,1.32,7.75,4.07,8.13,8.29,18.23,0,23.2,24.86-1.66,23.2H11.54Z"/>
+      <rect class="cls-2" x="15.77" y="52.67" width="2" height="3" rx=".65" ry=".65"/>
+      <rect class="cls-2" x="23.77" y="51.67" width="2" height="3" rx=".65" ry=".65"/>
+      <rect class="cls-2" x="19.77" y="57.67" width="2" height="3" rx=".65" ry=".65"/>
+      <rect class="cls-2" x="19.77" y="47.67" width="2" height="3" rx=".65" ry=".65"/>
+      <rect class="cls-2" x="29.77" y="49.67" width="2" height="3" rx=".65" ry=".65"/>
+      <rect class="cls-2" x="37.77" y="48.67" width="2" height="3" rx=".65" ry=".65"/>
+      <rect class="cls-2" x="33.77" y="54.67" width="2" height="3" rx=".65" ry=".65"/>
+      <rect class="cls-2" x="33.77" y="44.67" width="2" height="3" rx=".65" ry=".65"/>
+      <rect class="cls-2" x="44.77" y="52.67" width="2" height="3" rx=".65" ry=".65"/>
+      <rect class="cls-2" x="52.77" y="51.67" width="2" height="3" rx=".65" ry=".65"/>
+      <rect class="cls-2" x="48.77" y="57.67" width="2" height="3" rx=".65" ry=".65"/>
+      <rect class="cls-2" x="48.77" y="47.67" width="2" height="3" rx=".65" ry=".65"/>
+    </g>
+  </g>
+</svg>

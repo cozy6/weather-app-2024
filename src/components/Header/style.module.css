@@ -1,0 +1,23 @@
+.animated_header {
+  font-size: 20px;
+  color: #fff;
+  font-weight: 100;
+  margin-top: 1em;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.text {
+  display: block;
+  font-weight: 200;
+  font-size: 20px;
+  width: 100%;
+  transform: translateX(100%);
+  animation: move 15s linear infinite;
+}
+
+@keyframes move {
+  to {
+    transform: translateX(-100%);
+  }
+}

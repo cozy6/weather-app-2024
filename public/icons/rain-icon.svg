@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 70.77 63.07">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#radial-gradient-10);
+      }
+
+      .cls-3 {
+        fill: url(#radial-gradient-2);
+      }
+
+      .cls-4 {
+        fill: url(#radial-gradient-3);
+      }
+
+      .cls-5 {
+        fill: url(#radial-gradient-4);
+      }
+
+      .cls-6 {
+        fill: url(#radial-gradient-6);
+      }
+
+      .cls-7 {
+        fill: url(#radial-gradient-9);
+      }
+
+      .cls-8 {
+        fill: url(#radial-gradient-8);
+      }
+
+      .cls-9 {
+        fill: url(#radial-gradient-5);
+      }
+
+      .cls-10 {
+        fill: url(#radial-gradient-7);
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="3.24" cy="-2.66" fx="3.24" fy="-2.66" r="53.57" gradientUnits="userSpaceOnUse">
+      <stop offset=".32" stop-color="#fff"/>
+      <stop offset="1" stop-color="#9dc8ee"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="1.79" cy="27.83" fx="1.79" fy="27.83" r="7.1" gradientTransform="translate(3.77 18.7)" gradientUnits="userSpaceOnUse">
+      <stop offset=".32" stop-color="#bdccd4"/>
+      <stop offset="1" stop-color="#9dc8ee"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="9.25" cy="29.38" fx="9.25" fy="29.38" r="7.1" gradientTransform="translate(3.32 20.15)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-4" cx="15.51" cy="25.06" fx="15.51" fy="25.06" gradientTransform="translate(4.05 21.48)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-5" cx="21.99" cy="26.81" fx="21.99" fy="26.81" gradientTransform="translate(3.58 22.72)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-6" cx="29.44" cy="28.36" fx="29.44" fy="28.36" r="7.1" gradientTransform="translate(3.12 24.17)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-7" cx="35.71" cy="24.04" fx="35.71" fy="24.04" gradientTransform="translate(3.85 25.49)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-8" cx="40.8" cy="18.93" fx="40.8" fy="18.93" r="7.1" gradientTransform="translate(4.76 26.6)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-9" cx="48.26" cy="20.48" fx="48.26" fy="20.48" gradientTransform="translate(4.31 28.05)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-10" cx="54.52" cy="16.16" fx="54.52" fy="16.16" r="7.1" gradientTransform="translate(5.04 29.38)" xlink:href="#radial-gradient-2"/>
+  </defs>
+  <g id="Rain">
+    <g>
+      <path class="cls-1" d="M11.54,42.67c-14.12,0-19.09-26.51,7.42-31.49,3.31-14.91,24.86-14.91,28.32,0,5.03,1.32,7.75,4.07,8.13,8.29,18.23,0,23.2,24.86-1.66,23.2H11.54Z"/>
+      <rect class="cls-3" x="5.47" y="47.15" width="2" height="10" rx="1" ry="1" transform="translate(10.45 -.25) rotate(11.42)"/>
+      <rect class="cls-4" x="12.47" y="50.15" width="2" height="10" rx="1" ry="1" transform="translate(11.19 -1.58) rotate(11.42)"/>
+      <rect class="cls-5" x="19.47" y="47.15" width="2" height="10" rx="1" ry="1" transform="translate(10.73 -3.02) rotate(11.42)"/>
+      <rect class="cls-9" x="25.47" y="50.15" width="2" height="10" rx="1" ry="1" transform="translate(11.44 -4.15) rotate(11.42)"/>
+      <rect class="cls-6" x="32.47" y="53.15" width="2" height="10" rx="1" ry="1" transform="translate(12.18 -5.48) rotate(11.42)"/>
+      <rect class="cls-10" x="39.47" y="50.15" width="2" height="10" rx="1" ry="1" transform="translate(11.72 -6.92) rotate(11.42)"/>
+      <rect class="cls-8" x="45.47" y="46.15" width="2" height="10" rx="1" ry="1" transform="translate(11.05 -8.19) rotate(11.42)"/>
+      <rect class="cls-7" x="52.47" y="49.15" width="2" height="10" rx="1" ry="1" transform="translate(11.78 -9.52) rotate(11.42)"/>
+      <rect class="cls-2" x="59.47" y="46.15" width="2" height="10" rx="1" ry="1" transform="translate(11.33 -10.96) rotate(11.42)"/>
+    </g>
+  </g>
+</svg>
